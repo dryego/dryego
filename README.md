@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 Meu nome é Dryego, sou um estudante de programação com foco em ***back-end***, sou apaixonado por resolver problemas.
-estou aqui para complartilhar projetos e conhecimento.
+estou aqui para compartilhar projetos e conhecimento.
 
 ### Para me encontra:
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dryegolisboa/)
